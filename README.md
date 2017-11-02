@@ -14,5 +14,5 @@ Go to Colorcord Plugins Here. https://github.com/ColorCord/Plugins
 </a>
 	
 <?php echo date("Y"); ?>
-
+<HR>
 <footer>&copy; Copyright 2017 Colorcord</footer>
