@@ -14,8 +14,4 @@ Go to Colorcord Plugins Here. https://github.com/ColorCord/Plugins
 </a>
 	
 <?php echo date("Y"); ?>
-<script type="text/javascript">
-var d = new Date()
-document.write(d.getFullYear())
-</script>
 
