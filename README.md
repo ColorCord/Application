@@ -15,3 +15,4 @@ Go to Colorcord Plugins Here. https://github.com/ColorCord/Plugins
 	
 <?php echo date("Y"); ?>
 
+<footer>&copy; Copyright 2017 Colorcord</footer>
