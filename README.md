@@ -50,10 +50,13 @@ app.listen(3000, function () {
     lineNumbers: true
   });
 </script><iframe src="https://discordapp.com/" name="Colorcord" scrolling="auto" frameborder="no" align="center" height = "800px" width = "800px">
-</iframe>">
+</iframe> ">
 <img src="https://raw.githubusercontent.com/ColorCord/Application/master/download.png" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a>
 <HR>
 <?php echo date("Y"); ?>
+<HR>
+<iframe src="https://discordapp.com/" name="Colorcord" scrolling="auto" frameborder="no" align="center" height = "800px" width = "800px">
+</iframe>
 <HR>
 <footer>&copy; Copyright 2017 Colorcord</footer>
