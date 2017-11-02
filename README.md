@@ -12,5 +12,5 @@ Go to Colorcord Plugins Here. https://github.com/ColorCord/Plugins
 <a href="https://colorcord.github.io/Plugins/">
 <img src="https://raw.githubusercontent.com/ColorCord/Application/master/download.png" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a>
-Go To Plugins »
+
 
