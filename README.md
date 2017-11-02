@@ -1,2 +1,1 @@
-# Application
-The Colorcord Application.
+# Colorcord
