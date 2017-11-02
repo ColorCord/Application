@@ -1,10 +1,10 @@
-# Colorcord
+# Colorcord Main
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/ColorCord/Plugins/master/download.ico" /
 <HR>
 <img src="https://raw.githubusercontent.com/ColorCord/Application/master/download.png">
 <HR>
-<p><b>Version #1.0</b></p>
+Go to Inspect Element Then Go to Console to Run Command Paste it There Theme Set Up.
 <HR>
-<p><b>#Latest Version</b></p>
-Added Flashing Discord Theme #JS
+Go to Colorcord Plugins Here. https://github.com/ColorCord/Plugins
 <HR>
-
+<body background="https://raw.githubusercontent.com/ColorCord/Plugins/master/Abstract%20Rainbow%20Colours%20Wallpapers%207.jpg">
