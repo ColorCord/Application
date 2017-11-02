@@ -8,6 +8,7 @@ Go to Inspect Element Then Go to Console to Run Command Paste it There Theme Set
 Go to Colorcord Plugins Here. https://github.com/ColorCord/Plugins
 <HR>
 <body background="https://raw.githubusercontent.com/ColorCord/Plugins/master/Abstract%20Rainbow%20Colours%20Wallpapers%207.jpg">
+Go To Plugins
 <HR>
 <a href="https://colorcord.github.io/Plugins/">
 <img src="https://raw.githubusercontent.com/ColorCord/Application/master/download.png" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
